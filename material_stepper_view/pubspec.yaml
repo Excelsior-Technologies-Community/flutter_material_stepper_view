@@ -1,7 +1,7 @@
 name: material_stepper_view
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_material_stepper_view
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_material_stepper_view
 
 environment:
   sdk: ^3.8.1
