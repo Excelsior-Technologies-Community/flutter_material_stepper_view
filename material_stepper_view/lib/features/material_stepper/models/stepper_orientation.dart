@@ -1,0 +1,4 @@
+enum StepperOrientation {
+  horizontal,
+  vertical,
+}
